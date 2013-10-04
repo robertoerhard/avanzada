@@ -1,4 +1,4 @@
-package Negocio;
+package secadero;
 
 /**
  * @author Diego
